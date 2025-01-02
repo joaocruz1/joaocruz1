@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Cruz
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é João Cruz, sou desenvolvedor full stack de sistemas e sites, com foco em criar soluções completas e inovadoras. Se quiser entrar em contato comigo para novas parcerias, desenvolvimento de software ou até uma conversa sobre tecnologias, é só mandar mensagem no meu Instagram "[Contato](https://www.instagram.com/joaovcruz1/)".
 
@@ -65,6 +65,14 @@ Meu nome é João Cruz, sou desenvolvedor full stack de sistemas e sites, com fo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"          
 />
 <img 
     align="left" 
