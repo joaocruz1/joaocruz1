@@ -1,19 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=João%20Victor%20Cruz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CTO%20%26%20Full%20Stack%20Developer%20%7C%20AI%20%26%20SaaS%20Builder&descAlignY=60&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=João%20Victor%20Cruz&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=CTO%20%26%20Co-Founder%20%40%20NextLayer%20Dev%20%7C%20Full%20Stack%20%26%20AI%20Builder&descAlignY=60&descSize=17&descColor=a78bfa&animation=fadeIn" />
 
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Construindo+SaaS+do+zero+%F0%9F%9A%80;Automação+com+IA+%7C+n8n+%2B+WhatsApp+%F0%9F%A4%96;TypeScript+%7C+Fastify+5+%7C+Supabase+%E2%9A%A1;Fundador+de+6+produtos+ativos+no+mercado+%F0%9F%8E%AF" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/joaocruz1">
+    <img src="https://komarev.com/ghpvc/?username=joaocruz1&style=for-the-badge&color=7c3aed&label=VISITAS+AO+PERFIL" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Foco-SaaS%20%26%20AI-7c3aed?style=for-the-badge&logo=lightning&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Base-MG%2C%20Brasil%20🇧🇷-302b63?style=for-the-badge" />
+
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.instagram.com/joaovcruz1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/joaovcruz1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:contato@nextlayerdev.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/6%2B-Produtos%20SaaS-7c3aed?style=flat-square&labelColor=0d1117" /><br/>
+        <sub>em produção</sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/3%2B-Anos%20de%20Startup-302b63?style=flat-square&labelColor=0d1117" /><br/>
+        <sub>NextLayer Dev</sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/100%25-TypeScript%20First-007ACC?style=flat-square&labelColor=0d1117" /><br/>
+        <sub>stack principal</sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/BR-Clientes%20Ativos-3ECF8E?style=flat-square&labelColor=0d1117" /><br/>
+        <sub>em todo Brasil</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -31,7 +78,7 @@ const joao = {
   focus:      ["SaaS", "AI Automation", "API Design", "Scalable Systems"],
   building:   ["Profissão Laser", "Omni Resposta", "NL Barber", "NL Business", "Ativa Laser", "Meta Laser"],
   stack:      ["TypeScript", "Fastify 5", "Supabase", "React", "n8n", "Stripe"],
-  contact:    "instagram.com/joaovcruz1",
+  contact:    "instagram.com/joaocruz1",
 };
 ```
 
@@ -127,23 +174,23 @@ const joao = {
 <div align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=joaovcruz1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api?username=joaocruz1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovcruz1&theme=midnight-purple&layout=compact&custom_title=Tecnologias%20Mais%20Usadas&langs_count=9&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocruz1&theme=midnight-purple&layout=compact&custom_title=Tecnologias%20Mais%20Usadas&langs_count=9&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"
   />
 </div>
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=joaovcruz1&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=joaocruz1&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" 
     height="180em"
   />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovcruz1&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocruz1&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
 </div>
 
 ---
