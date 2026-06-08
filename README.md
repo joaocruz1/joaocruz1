@@ -1,30 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=João%20Victor%20Cruz&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=CTO%20%26%20Co-Founder%20%40%20NextLayer%20Dev%20%7C%20Full%20Stack%20%26%20AI%20Builder&descAlignY=60&descSize=17&descColor=a78bfa&animation=fadeIn" />
+<!-- Header SVG inline — sem dependência externa -->
+<svg width="100%" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="250" fill="url(#bgGrad)" rx="0"/>
+  <!-- Wave bottom -->
+  <path d="M0,200 C150,170 300,230 450,200 C600,170 750,220 900,195 L900,250 L0,250 Z" fill="#0d1117" opacity="0.8"/>
+  <path d="M0,220 C200,195 400,240 600,215 C750,198 850,225 900,210 L900,250 L0,250 Z" fill="#0d1117"/>
+  <!-- Glow circle -->
+  <circle cx="450" cy="105" r="80" fill="#7c3aed" opacity="0.07"/>
+  <circle cx="450" cy="105" r="50" fill="#a78bfa" opacity="0.05"/>
+  <!-- Accent line -->
+  <rect x="300" y="155" width="300" height="2" fill="url(#lineGrad)" rx="1"/>
+  <!-- Name -->
+  <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">João Victor Cruz</text>
+  <!-- Role -->
+  <text x="450" y="133" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">CTO &amp; Co-Founder @ NextLayer Dev  ·  Full Stack &amp; AI Builder</text>
+  <!-- Location -->
+  <text x="450" y="170" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">📍 Santa Rita do Sapucaí, MG — Brasil</text>
+</svg>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Construindo+SaaS+do+zero+%F0%9F%9A%80;Automação+com+IA+%7C+n8n+%2B+WhatsApp+%F0%9F%A4%96;TypeScript+%7C+Fastify+5+%7C+Supabase+%E2%9A%A1;Fundador+de+6+produtos+ativos+no+mercado+%F0%9F%8E%AF" alt="Typing SVG" />
-</div>
 
-<br/>
-
-<div align="center">
-
-  <a href="https://github.com/joaocruz1">
-    <img src="https://komarev.com/ghpvc/?username=joaocruz1&style=for-the-badge&color=7c3aed&label=VISITAS+AO+PERFIL" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Foco-SaaS%20%26%20AI-7c3aed?style=for-the-badge&logo=lightning&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Base-MG%2C%20Brasil%20🇧🇷-302b63?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://www.instagram.com/joaovcruz1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -36,31 +47,23 @@
   <a href="mailto:contato@nextlayerdev.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="160">
-        <img src="https://img.shields.io/badge/6%2B-Produtos%20SaaS-7c3aed?style=flat-square&labelColor=0d1117" /><br/>
-        <sub>em produção</sub>
-      </td>
-      <td align="center" width="160">
-        <img src="https://img.shields.io/badge/3%2B-Anos%20de%20Startup-302b63?style=flat-square&labelColor=0d1117" /><br/>
-        <sub>NextLayer Dev</sub>
-      </td>
-      <td align="center" width="160">
-        <img src="https://img.shields.io/badge/100%25-TypeScript%20First-007ACC?style=flat-square&labelColor=0d1117" /><br/>
-        <sub>stack principal</sub>
-      </td>
-      <td align="center" width="160">
-        <img src="https://img.shields.io/badge/BR-Clientes%20Ativos-3ECF8E?style=flat-square&labelColor=0d1117" /><br/>
-        <sub>em todo Brasil</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/6%2B%20Produtos%20SaaS-em%20produção-7c3aed?style=flat-square&labelColor=161b22&logo=rocket&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NextLayer%20Dev-3%2B%20anos-302b63?style=flat-square&labelColor=161b22&logo=building&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stack-TypeScript%20First-007ACC?style=flat-square&labelColor=161b22&logo=typescript&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Clientes-Brasil%20🇧🇷-3ECF8E?style=flat-square&labelColor=161b22&logo=checkmark&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/joaocruz1">
+    <img src="https://komarev.com/ghpvc/?username=joaocruz1&style=flat-square&color=7c3aed&label=visitas" />
+  </a>
 </div>
 
 <br/>
@@ -210,6 +213,24 @@ Construímos produtos SaaS e soluções white-label para empresas brasileiras, c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Vamos%20construir%20algo%20grande%3F&fontSize=20&fontColor=a78bfa&fontAlignY=65" />
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C150,15 300,60 450,35 C600,10 750,50 900,28 L900,0 L0,0 Z" fill="#0d1117"/>
+  <rect x="0" y="28" width="900" height="92" fill="url(#footerGrad)"/>
+  <rect x="300" y="45" width="300" height="1.5" fill="url(#footerLine)" rx="1"/>
+  <text x="450" y="80" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">Vamos construir algo grande? 🚀</text>
+  <text x="450" y="103" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle">contato@nextlayerdev.com.br</text>
+</svg>
 
 </div>
