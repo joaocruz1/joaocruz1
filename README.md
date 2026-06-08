@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/joaovcruz1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/NextLayerDev" target="_blank">
-    <img src="https://img.shields.io/badge/NextLayer%20Dev-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:contato@nextlayerdev.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
